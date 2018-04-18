@@ -24,7 +24,7 @@ function sayHiToGrandma(str)
     return 'I love you, too.';
   
  if(str.toLowerCase()==str)
-    return '';
+    return 'I can''t hear you';
 
 }
 
