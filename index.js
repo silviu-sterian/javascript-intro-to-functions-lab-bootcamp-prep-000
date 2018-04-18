@@ -1,5 +1,5 @@
 function shout(str)
 {
   
-  return stirng.toU
+  return strng.toU
 }
