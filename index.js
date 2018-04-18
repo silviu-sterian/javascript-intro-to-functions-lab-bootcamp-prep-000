@@ -24,7 +24,7 @@ function sayHiToGrandma(str)
     return 'I love you, too.';
   
  if(str.toL"owerCase()==str)
-    return '"I can't hear you';
+    return "I can't hear you";
     
  if(str.toUpperCase()==str)
     return 'YES INDEED!';
