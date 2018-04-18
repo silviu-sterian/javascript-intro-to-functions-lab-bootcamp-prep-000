@@ -23,8 +23,8 @@ function sayHiToGrandma(str)
   if (str.toLowerCase()=='i love you, grandma')
     return 'I love you, too.';
   
- if(str.toLowerCase()==str)
-    return 'I can''t hear you';
+ if(str.toL"owerCase()==str)
+    return '"I can't hear you';
     
  if(str.toUpperCase()==str)
     return 'YES INDEED!';
